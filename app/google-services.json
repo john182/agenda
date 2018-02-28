@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149186827433",
+    "firebase_url": "https://agenda-efe8e.firebaseio.com",
+    "project_id": "agenda-efe8e",
+    "storage_bucket": "agenda-efe8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149186827433:android:aeb0792a51cd489e",
+        "android_client_info": {
+          "package_name": "com.chronos.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149186827433-li6tc7mq52fdttb3uh129cvr0p08csv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chronos.agenda",
+            "certificate_hash": "59605a1066321f405f52dba8ea9cfd59dbed82e6"
+          }
+        },
+        {
+          "client_id": "149186827433-up713je6gi7vodmohlg1ch6biv616kqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5dUvPROSM2RY0ul7jzdhiDOQ-Z3K3vk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149186827433-up713je6gi7vodmohlg1ch6biv616kqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
